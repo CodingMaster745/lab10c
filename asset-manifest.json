@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodingMaster745/lab10c/static/css/main.df37954e.css",
+    "main.js": "/CodingMaster745/lab10c/static/js/main.640f8d47.js",
+    "static/js/488.38b0d7e9.chunk.js": "/CodingMaster745/lab10c/static/js/488.38b0d7e9.chunk.js",
+    "index.html": "/CodingMaster745/lab10c/index.html",
+    "main.df37954e.css.map": "/CodingMaster745/lab10c/static/css/main.df37954e.css.map",
+    "main.640f8d47.js.map": "/CodingMaster745/lab10c/static/js/main.640f8d47.js.map",
+    "488.38b0d7e9.chunk.js.map": "/CodingMaster745/lab10c/static/js/488.38b0d7e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df37954e.css",
+    "static/js/main.640f8d47.js"
+  ]
+}
