@@ -9,7 +9,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://github.com/CodingMaster745/lab10c",
+  "homepage": "https://codingmaster745.github.io/lab10c/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
